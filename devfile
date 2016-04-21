@@ -1,2 +1,7 @@
 this is dev file
+<<<<<<< HEAD
 hello this is new file
+=======
+>>>>>>> a3b64f663bb205e2a497f0513a5b5111b845736c
+
+This is dev file to revert
